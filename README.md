@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, swimming, walking.
 - 🌱 I’m currently learning frontEnd Developer.
 - 💞️ I’m looking to collaborate on frontEnd position.
-- 📫 How to reach me : Email:f.keshir25@gmail.com
+- 📫 <a href="mailto:workkashir2323@gmail.com">Contact Me </a>
 
 <!---
 Raha7325/Raha7325 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
