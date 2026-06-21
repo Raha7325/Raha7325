@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Raha7325
-- 👀 I’m interested in coding, swimming, walking.
-- 🌱 I’m currently learning frontEnd Developer.
-- 💞️ I’m looking to collaborate on frontEnd position.
-- 📫 <a href="mailto:workkashir2323@gmail.com">Contact Me </a>
+## Hi, I'm Raha 👋
 
-<!---
-Raha7325/Raha7325 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Front-End Developer focused on creating responsive, accessible, and user-friendly web applications.
+
+- 🌱 Continuously learning and improving my Front-End development skills
+- ⚛️ Working with React, Next.js, Vue, JavaScript, HTML, CSS, and Tailwind CSS
+- 🤝 Open to Front-End Developer opportunities and collaborations
+- 📚 Passionate about clean code and modern web development
+- 📫 Email: workkashir2323@gmail.com
